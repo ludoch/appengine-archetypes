@@ -1,0 +1,15 @@
+<archetype-catalog>
+<archetypes>
+<archetype>
+<groupId>com.google.appengine.archetypes</groupId>
+<artifactId>archetype1</artifactId>
+<version>1.8</version>
+<repository>https://github.com/ludoch/appengine-archetypes</repository>
+<description>
+Archetype for creating a RESTful web application with Jersey
+</description>
+</archetype>
+
+
+</archetypes>
+</archetype-catalog>
